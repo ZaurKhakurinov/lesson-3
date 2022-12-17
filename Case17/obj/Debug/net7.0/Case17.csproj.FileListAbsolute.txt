@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/bin/Debug/net7.0/Case17
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/bin/Debug/net7.0/Case17.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/bin/Debug/net7.0/Case17.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/bin/Debug/net7.0/Case17.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/bin/Debug/net7.0/Case17.pdb
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/refint/Case17.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.pdb
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/Case17.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case17/obj/Debug/net7.0/ref/Case17.dll
