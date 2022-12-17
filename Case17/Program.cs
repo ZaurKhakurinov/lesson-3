@@ -9,6 +9,7 @@ int y = int.Parse(Console.ReadLine ());
 if (x > 0 && y > 0)
 {
         Console.WriteLine($"число находится в 1 четверти");
+        
 }
 if (x < 0&& y > 0);
 {
