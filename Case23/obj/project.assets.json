@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/Case21.csproj",
-      "projectName": "Case21",
-      "projectPath": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/Case21.csproj",
+      "projectUniqueName": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case23/Case23.csproj",
+      "projectName": "Case23",
+      "projectPath": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case23/Case23.csproj",
       "packagesPath": "/Users/zaurhakurinov/.nuget/packages/",
-      "outputPath": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/",
+      "outputPath": "/Users/zaurhakurinov/Desktop/geek brains/C-3/Case23/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/zaurhakurinov/.nuget/NuGet/NuGet.Config"
