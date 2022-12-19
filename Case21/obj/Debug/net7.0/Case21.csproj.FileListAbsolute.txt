@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/bin/Debug/net7.0/Case21
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/bin/Debug/net7.0/Case21.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/bin/Debug/net7.0/Case21.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/bin/Debug/net7.0/Case21.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/bin/Debug/net7.0/Case21.pdb
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/refint/Case21.dll
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.pdb
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/Case21.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/C-3/Case21/obj/Debug/net7.0/ref/Case21.dll
