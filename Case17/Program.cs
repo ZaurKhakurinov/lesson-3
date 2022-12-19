@@ -27,3 +27,4 @@ if (x==0||y==0)
 {
     Console.WriteLine($"в точке 0");
 }
+// Dj
